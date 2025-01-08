@@ -1,1 +1,1 @@
-# LB7
+print("Hello world")
